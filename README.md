@@ -18,6 +18,8 @@ As a result, the company's key focus for success is reducing client attrition an
 
 ## Objectives:
 Finding the % of Churn Customers and customers that keep in with the active services.
+
 Analysing the data in terms of various features responsible for customer Churn
+
 Finding a most suited machine learning model for correct classification of Churn and non churn customers.
 
